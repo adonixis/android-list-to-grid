@@ -1,0 +1,200 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0">
+
+    <group
+        android:name="list_dot"
+        android:pivotX="3"
+        >
+        <path
+            android:pathData="m3,13 l2,0 0,-2 -2,0z"
+            android:fillColor="#FFFFFF" />
+    </group>
+
+    <group
+        android:name="list_line"
+        android:pivotX="21"
+        >
+        <path
+            android:pathData="m7,13 l14,0 0,-2 -14,0z"
+            android:fillColor="#FFFFFF" />
+    </group>
+
+    <group
+        android:name="grid_1_1"
+        android:pivotX="4"
+        android:pivotY="4"
+        android:scaleX="0.29"
+        android:scaleY="1.33"
+        android:translateX="-1"
+        android:translateY="3"
+        >
+        <path
+            android:pathData="M4,4h7v1.5h-7z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_1_2">
+        <path
+            android:name="path_grid_1_2"
+            android:fillAlpha="0"
+            android:pathData="M9.5,4h1.5v7h-1.5z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_1_3"
+        android:pivotX="4"
+        android:scaleX="0.214"
+        >
+        <path
+            android:name="path_grid_1_3"
+            android:fillAlpha="0"
+            android:pathData="M4,9.5h7v1.5h-7z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_1_4"
+        android:pivotX="4"
+        android:pivotY="4"
+        >
+        <path
+            android:name="path_grid_1_4"
+            android:fillAlpha="0"
+            android:pathData="M4,4h1.5v7h-1.5z"
+            android:fillColor="#FFFFFF" />
+    </group>
+
+    <group
+        android:name="grid_2_1"
+        android:pivotX="20"
+        android:pivotY="4"
+        android:scaleX="2"
+        android:scaleY="1.33"
+        android:translateX="1"
+        android:translateY="3"
+        >
+        <path
+            android:pathData="M13,4h7v1.5h-7z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_2_2"
+        android:pivotX="18.5"
+        android:pivotY="4"
+        >
+        <path
+            android:name="path_grid_2_2"
+            android:fillAlpha="0"
+            android:pathData="M18.5,4h1.5v7h-1.5z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_2_3"
+        android:pivotX="20"
+        android:scaleX="0.214"
+        >
+        <path
+            android:name="path_grid_2_3"
+            android:fillAlpha="0"
+            android:pathData="M13,9.5h7v1.5h-7z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_2_4">
+        <path
+            android:name="path_grid_2_4"
+            android:fillAlpha="0"
+            android:pathData="M13,4h1.5v7h-1.5z"
+            android:fillColor="#FFFFFF" />
+    </group>
+
+    <group
+        android:name="grid_3_1"
+        android:pivotX="20"
+        android:scaleX="0.214">
+        <path
+            android:name="path_grid_3_1"
+            android:fillAlpha="0"
+            android:pathData="M13,13h7v1.5h-7z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_3_2"
+        android:pivotX="18.5"
+        android:pivotY="13"
+        >
+        <path
+            android:name="path_grid_3_2"
+            android:fillAlpha="0"
+            android:pathData="M18.5,13h1.5v7h-1.5z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_3_3"
+        android:pivotX="20"
+        android:pivotY="20"
+        android:scaleX="2"
+        android:scaleY="1.33"
+        android:translateX="1"
+        android:translateY="-3"
+        >
+        <path
+            android:pathData="M13,18.5h7v1.5h-7z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_3_4">
+        <path
+            android:name="path_grid_3_4"
+            android:fillAlpha="0"
+            android:pathData="M13,13h1.5v7h-1.5z"
+            android:fillColor="#FFFFFF" />
+    </group>
+
+    <group
+        android:name="grid_4_1"
+        android:pivotX="4"
+        android:scaleX="0.214"
+        >
+        <path
+            android:name="path_grid_4_1"
+            android:fillAlpha="0"
+            android:pathData="M4,13h7v1.5h-7z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_4_2">
+        <path
+            android:name="path_grid_4_2"
+            android:fillAlpha="0"
+            android:pathData="M9.5,13h1.5v7h-1.5z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_4_3"
+        android:pivotX="4"
+        android:pivotY="20"
+        android:scaleX="0.29"
+        android:scaleY="1.33"
+        android:translateX="-1"
+        android:translateY="-3"
+        >
+        <path
+            android:pathData="M4,18.5h7v1.5h-7z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:name="grid_4_4"
+        android:pivotX="4"
+        android:pivotY="13"
+        >
+        <path
+            android:name="path_grid_4_4"
+            android:fillAlpha="0"
+            android:pathData="M4,13h1.5v7h-1.5z"
+            android:fillColor="#FFFFFF" />
+    </group>
+
+</vector>
