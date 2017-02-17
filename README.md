@@ -1,4 +1,6 @@
 # Android List to Grid Animated Icon
+[![API](https://img.shields.io/badge/API-15%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=15)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20List%20to%20Grid%20Animated%20Icon-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/5308)
 
 Implementation of List to Grid: Icon Transition.  
 Thanks to [Luiza Bielinski](https://material.uplabs.com/lubielinski_ "Luiza's profile on UpLabs") for her [animation.](https://material.uplabs.com/posts/list-to-grid-icon-transition "Page of animation on UpLabs")
@@ -7,7 +9,7 @@ Thanks to [Luiza Bielinski](https://material.uplabs.com/lubielinski_ "Luiza's pr
 
 ### Icon Transition x10 slower:
 
-![Share gif](https://cloud.githubusercontent.com/assets/1766863/22996225/dfa8a722-f3ef-11e6-8124-fc8ace77d79a.gif)
+![List to Grid gif](https://cloud.githubusercontent.com/assets/1766863/22996225/dfa8a722-f3ef-11e6-8124-fc8ace77d79a.gif)
 
 License
 ======
